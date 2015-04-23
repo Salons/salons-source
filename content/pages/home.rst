@@ -1,4 +1,4 @@
-A Salon in the heart of East York!
+Welcome to our Salon!
 ==================================================
 
 :save_as: index.html
