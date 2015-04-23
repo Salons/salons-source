@@ -4,6 +4,11 @@ Previous Salons
 :category: salons-previous
 :slug: salons-previous
 
-`Salon 01 Education`_ | November 30, 2013 
+Salon 01: `Should we start educating our kids like the Finns?`_ 
 
-	.. _Salon 01 Education: salon-01.html
+----
+
+.. _Should we start educating our kids like the Finns?: salon-01.html
+
+
+	

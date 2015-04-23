@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Previous&nbsp;Salons - Carol and Michael's Salons</title>
+    <title>Upcoming&nbsp;Salon - Carol and Michael's Salons</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -11,16 +11,16 @@
 
     <link href="/images/favicon.ico" rel="icon">
 
-<link rel="canonical" href="/pages/salons-previous/salons-previous.html">
+<link rel="canonical" href="/pages/misc/upcoming-salon.html">
 
         <meta name="author" content="Carol and Michael's Salons" />
-        <meta name="description" content="Salon 01: Should we start educating our kids like the Finns?" />
+        <meta name="description" content="Date: June 15, 2015 | Time: 7 pm | Location: East York | More" />
 
     <meta property="og:site_name" content="Carol and Michael's Salons" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Previous Salons"/>
-    <meta property="og:url" content="/pages/salons-previous/salons-previous.html"/>
-    <meta property="og:description" content="Salon 01: Should we start educating our kids like the Finns?" />
+    <meta property="og:title" content="Upcoming Salon"/>
+    <meta property="og:url" content="/pages/misc/upcoming-salon.html"/>
+    <meta property="og:description" content="Date: June 15, 2015 | Time: 7 pm | Location: East York | More" />
 
 
     <!-- Bootstrap -->
@@ -55,7 +55,7 @@ Carol and Michael's Salons            </a>
                     <li><a href="/about.html">About</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <!-- <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li> -->
+              <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -68,11 +68,10 @@ Carol and Michael's Salons            </a>
         <div class="col-lg-12">
 
     <section id="content" class="body">
-        <h1 class="entry-title">Previous&nbsp;Salons</h1>
+        <h1 class="entry-title">Upcoming&nbsp;Salon</h1>
         
         <div class="entry-content">
-            <p>Salon 01: <a class="reference external" href="salon-01.html">Should we start educating our kids like the&nbsp;Finns?</a></p>
-<hr class="docutils" />
+            <p>Date: June 15, 2015 | Time: 7 pm | Location: East York | <a class="reference external" href="pages/salons-upcoming/salon-02.html">More</a></p>
 
         </div>
     </section>

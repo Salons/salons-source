@@ -8,6 +8,11 @@ blockquote {
     font-style: italic;
     padding-top: 1px;
     padding-bottom: 1px;
+    margin-bottom: 10px;
+}
+
+p.first {
+    margin-bottom: 2px;
 }
 
 .label-default  {
