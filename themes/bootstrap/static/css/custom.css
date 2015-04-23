@@ -3,6 +3,13 @@ body {
     font-size: 13px; /*15px;*/
 }
 
+blockquote {
+    color: red;
+    font-style: italic;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
 .label-default  {
     background-color: #E7E7E7;
     color: #333;

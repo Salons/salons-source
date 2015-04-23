@@ -18,9 +18,13 @@ LOAD_CONTENT_CACHE = False
 
 PATH = 'content'
 
+#static content = 'pages'
+PAGE_URL = 'pages/{category}/{slug}.html'  #The URL we will use to link to a page.
+PAGE_SAVE_AS = 'pages/{category}/{slug}.html'  #The location we will save the page.
+
 #dynamic content = 'articles'
 ARTICLE_PATHS = ['articles']   #questions', 'articles/ideas', 'articles/sources'
-USE_FOLDER_AS_CATEGORY = True
+USE_FOLDER_AS_CATEGORY = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_CATEGORY_IN_BREADCRUMBS = True # only works for articles (dynamic content)
 DISPLAY_BREADCRUMBS = False
@@ -39,8 +43,11 @@ DISPLAY_PAGES_ON_MENU = False
 HIDE_SIDEBAR = True
 
 MENUITEMS = [
-	('Salons', '/category/salons.html'),
-	('About', '/pages/about.html')
+	# ('Salons', '/category/salons.html'), #if salons are dynamic (=articles)
+	
+    ('Upcoming Salon', '/pages/salons-upcoming/salon-02.html'),
+    ('Previous Salons', '/pages/salons-previous/salons-previous.html'),
+    ('About', '/about.html')
 ]
     
 # ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}.html'
