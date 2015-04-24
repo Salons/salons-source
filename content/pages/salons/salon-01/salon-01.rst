@@ -9,4 +9,4 @@ Question for this Salon
 -------------------------------------------------------
 	Should we start educating our kids like the Finns?
 
-Date: November 30, 2013 | Time: 7 pm | Location: East York, ON 
+Date: 30 November 2013 | Time: 7 pm | Location: East York, ON 

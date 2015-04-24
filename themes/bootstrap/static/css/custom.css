@@ -4,11 +4,13 @@ body {
 }
 
 blockquote {
+    font-size: 36px;
     color: red;
-    font-style: italic;
+    font-style: oblique;
     padding-top: 1px;
     padding-bottom: 1px;
     margin-bottom: 10px;
+    background-color: #E7E7E7;
 }
 
 p.first {
