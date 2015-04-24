@@ -6,21 +6,19 @@ Welcome to our Salon!
 If you like the idea of talking about ideas in the company of interesting people, you've come to the right place!
 
 
-
-
 Upcoming: Salon 02
 --------------------------------------------------
-	How are our lives shaped by the stuff we own?
+	Stuff: How are our lives shaped by the stuff we own?
 
-.. figure:: images/PC226929.ORF.JPG
+Date: June 15, 2015 | Time: 7 pm | Location: East York | More_ 
+
+.. figure:: images/consumerism2.jpg
 	:figwidth: 100%
-	:scale: 50%
-   	:alt: clutter
+   	:alt: shopping carts
    	:align: left
 
 
-Date: June 15, 2015 | Time: 7 pm | Location: East York | More_  
-
-
+.. note: images are cropped 2:1 and width = 320px
+ 
 
 .. _More: pages/salons-upcoming/salon-02.html
