@@ -29,7 +29,7 @@ Resources
 - `Life at Home in the Twenty First Century_ 32 Families Open Their Doors`_
 - `Conspicuous Consumption`_
 
-	.. _The Clutter Culture: http://magazine.ucla.edu/features/the-clutter-culture/	
-	.. _Life at Home in the Twenty First Century_ 32 Families Open Their Doors: http://www.amazon.com/dp/1931745617/ref=cm_sw_su_dp
-	.. _The Secret Lives of Everyday Things: http://www.sightline.org/research/stuff/
-	.. _Conspicuous Consumption: http://en.wikipedia.org/wiki/Thorstein_Veblen#Conspicuous_consumption
+.. _The Clutter Culture: http://magazine.ucla.edu/features/the-clutter-culture/	
+.. _Life at Home in the Twenty First Century_ 32 Families Open Their Doors: http://www.amazon.com/dp/1931745617/ref=cm_sw_su_dp
+.. _The Secret Lives of Everyday Things: http://www.sightline.org/research/stuff/
+.. _Conspicuous Consumption: http://en.wikipedia.org/wiki/Thorstein_Veblen#Conspicuous_consumption
