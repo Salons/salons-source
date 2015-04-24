@@ -4,11 +4,12 @@ body {
 }
 
 blockquote {
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 500; 
     color: red;
     font-style: italic;
-    padding-top: 1px;
-    padding-bottom: 3px;
+    padding-top: 4px;
+    padding-bottom: 6px;
     margin-bottom: 10px;
     background-color: #7EF7CD;
 }
@@ -59,7 +60,7 @@ h1,
 
 h2,
 .h2 {
-  font-size: 16px; /*32px;*/
+  font-size: 18px; /*32px;*/
   font-weight: 500; 
   margin-top: 24px;
 }
